@@ -1,0 +1,19 @@
+{
+  "name": "tay-number-guessing-game",
+  "version": "1.0.2",
+  "description": "\"TypeScript-based Number Guessing Game, part of my 100 Days of Coding challenge. The game tests players' ability to guess a secret number within a set range, showcasing basic TypeScript functionalities and user interactions.\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
